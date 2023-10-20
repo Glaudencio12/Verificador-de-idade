@@ -1,0 +1,37 @@
+body{
+    background-color: rgba(3, 96, 246, 0.822);
+    font-size: 15pt;
+    font-family: Arial, sans-serif;
+}
+header{
+    color: white;
+    text-align: center;
+}
+section{
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.752) ;
+    
+}footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+#foto{
+    display: flex;
+    height: 300px;
+    width: 50%;
+    margin: auto;
+    border-radius: 100px;
+    margin-top: 30px;
+}
+#verificar{
+    padding: 5px;
+    border-radius: 5px;
+}
+#res{
+    text-align: center;
+}
